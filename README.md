@@ -5,7 +5,7 @@
 - Power BI
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.pdf)
 
 ## Files
 - housing_analysis.py
