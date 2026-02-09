@@ -1,2 +1,17 @@
-# housing
-End-to-end data analytics project analysing UK house prices (2010–2024) using Python and Power BI. Cleaned and transformed UK Land Registry data, calculated annual and cumulative growth metrics, and built an interactive dashboard to identify top-performing investment regions.
+# UK Housing Market Investment Analysis
+
+## Tools
+- Python
+- Power BI
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Files
+- housing_analysis.py
+- uk_housing_dashboard.pbix
+
+## Key Insights
+• Best region growth: 144.7%  
+• London outperformed national average  
+• Detached properties strongest returns  
