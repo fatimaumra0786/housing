@@ -12,6 +12,8 @@ End-to-end data analytics project analysing UK house prices (2010–2024). Clean
  housing_project.py — Python script for data cleaning and feature engineering  
 
 ## Key Insights
-• Best region growth: 144.7%  
-• London outperformed national average  
-• Detached properties strongest returns  
+📌 Key Insights:
+• 🔥 Top growth region achieved 144.7% cumulative price growth  
+• 📈 Average annual growth across UK is 3.59%  
+• 🏙️ London regions consistently outperform national average  
+• 🏡 Detached properties show strongest long-term appreciation
