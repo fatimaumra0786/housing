@@ -6,7 +6,7 @@ End-to-end data analytics project analysing UK house prices (2010–2024). Clean
 - Power BI
 
 ## Dashboard Preview
-![Dashboard](dashboard.png.png)
+![Dashboard](dashboard.png.)
 
 ## Files
  housing_project.py — Python script for data cleaning and feature engineering  
