@@ -12,8 +12,8 @@ End-to-end data analytics project analysing UK house prices (2010–2024). Clean
  housing_project.py — Python script for data cleaning and feature engineering  
 
 ## Key Insights
-📌 Key Insights:
-• 🔥 Top growth region achieved 144.7% cumulative price growth  
-• 📈 Average annual growth across UK is 3.59%  
-• 🏙️ London regions consistently outperform national average  
-• 🏡 Detached properties show strongest long-term appreciation
+• Waltham Forest recorded the highest cumulative growth (130%) between 2010–2024.
+• Some outer London boroughs have outperformed central London
+• Detached and Semi-Detached properties show stronger long-term appreciation than Flats.
+• Average annual UK housing growth stands at ~3.6%.
+• Post-2020 period shows accelerated price growth across multiple regions.
