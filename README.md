@@ -64,7 +64,7 @@ The goal was to clean, transform, and analyse large datasets, and present insigh
 ---
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png.png)
+![Dashboard Screenshot](https://github.com/fatimaumra0786/housing/blob/main/Housing%20Dashboard.png)
 
 ---
 
