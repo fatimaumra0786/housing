@@ -6,11 +6,14 @@ The goal was to clean, transform, and analyse large datasets, and present insigh
 
 ---
 ## 🎯 Objectives
+The goal was to analyse 14 years of UK housing data to:
 
-* Analyse housing price trends across regions and property types
-* Calculate key metrics such as Year-over-Year (YoY) growth and 5-year CAGR
-* Identify top-performing regions for property investment
-* Build an interactive dashboard to simplify analysis
+• Track regional price growth
+• Compare property types (Detached, Semi-Detached, Terraced, Flats)
+• Identify high-return investment regions
+• Build a business-focused interactive dashboard
+
+Data was cleaned and transformed in Python, followed by dashboard development in Power BI.
 
 ---
 ## 📊 Dataset
@@ -56,10 +59,13 @@ The goal was to clean, transform, and analyse large datasets, and present insigh
 
 ## 📈 Key Insights
 
-* 📍 Certain regions consistently outperformed others in long-term growth
-* 📊 Property type significantly impacts price trends
-* 📉 Market fluctuations highlight the importance of time-based analysis
-* 🚀 Dashboard reduced analysis time by ~70%
+• 📈 UK average house prices reached £336K in 2024, increasing ↑ 68.6% since 2010
+• 🏆 Waltham Forest recorded the highest cumulative growth (130%)
+• 🗺️ Outer London regions have outperformed several central areas, driven by affordability and demand spillover
+• 🏡 Detached properties show stronger long-term growth compared to flats
+• 📊 5-year CAGR stands at 3.4%, indicating steady long-term appreciation
+• ⚡ Market momentum is 0.4% (slightly positive), suggesting growth is stabilizing after rapid expansion
+• 🦠 Significant price acceleration observed during 2019–2021 (COVID period)
 
 ---
 ## 📸 Dashboard Preview
